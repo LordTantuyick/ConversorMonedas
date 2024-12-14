@@ -25,7 +25,7 @@ El proyecto está organizado en las siguientes clases:
 
 ## Uso
 
-1.  Clona el repositorio: `git clone https://github.com/LordTantuyick/ConversordeMonedas`
+1.  Clona el repositorio: `git clone https://github.com/LordTantuyick/ConversorMonedas`
 2.  Compila el código: `javac *.java`
 3.  Ejecuta la aplicación: `java Principal`
 4.  Introduce tu clave de API de ExchangeRate-API cuando se te solicite.
